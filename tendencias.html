@@ -15,37 +15,59 @@
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    
-  </head>
-
-  <body>
-
-    <div class="container">
-
-      <div class="header clearfix">
+     <link rel="stylesheet" href="css/main.css" />
+    <body>
+      <!-- Header -->
+      <header id="header">
+        <a href="index.html" class="logo"><strong>Binary</strong> by TEMPLATED</a>
         <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation"><a href="index.html">Home</a></li>
-            <li role="presentation" class="active"><a href="tendencias.html">Tendencias</a></li>
-            <li role="presentation"><a href="burbujas.html">Burbujas</a></li>
-            <li role="presentation"><a href="arbol.html">Árbol</a></li>
-          </ul>
+          <a href="#menu">Menu</a>
         </nav>
-        <img src="fonts/beersandboardgames.png" style="width:150px;height:112.5px;"/>
-      </div>
-      
-      <h1>Testing Bar </h1>
-      
-      
-      <label><input type="checkbox"> Sort values</label>
-      <script src="js/sortbarchart.js"></script>
+      </header>
 
+    <!-- Nav -->
+      <nav id="menu">
+        <ul class="links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="grafico1.html">Gráfico 1</a></li>
+          <li><a href="grafico2.html">Gráfico 2</a></li>
+          <li><a href="grafico3.html">Gráfico 3</a></li>
+          <li><a href="elements.html">Elements</a></li>
+        </ul>
+      </nav>
+  </head>
+          
+<center><script src="js/sortbarchart.js"></script>
+        <input type="checkbox"> Sort values
+</center>
+  
+      
 
-    </div> <!-- /container -->
+      <section id="main">
+        
+        <div class="inner">
+       
 
-  </body>
-  <footer class="footer">
-    <p>&copy; 2016 Godoy - Liberona - Peréz </p>
-    <p>Universidad de Santiago de Chile</p>
-  </footer>     
+    
+          <header>
+            <h1>Lorem ipsum dolor sit amet</h1>
+            <p class="info"></p>
+          </header>
+
+          <p>Nullam posuere erat vel placerat rutrum. Praesent ac consectetur dui, et congue quam. Donec aliquam lacinia condimentum. Integer porta </p>
+        </div>
+      </section>
+<!-- Footer -->
+      <footer id="footer">
+
+      </footer>
+
+    <!-- Scripts -->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/jquery.scrolly.min.js"></script>
+      <script src="js/skel.min.js"></script>
+      <script src="js/util.js"></script>
+      <script src="js/main.js"></script>
+
+  </body>  
 </html>
