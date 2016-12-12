@@ -8,35 +8,67 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 
-		<title>B&BG</title>
+		<title>B&BG - Relación con tu juego</title>
 
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/project.css" rel="stylesheet">
-		
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<link rel="stylesheet" href="css/main.css" />
 	</head>
-
 	<body>
-
-		<div class="container">
-
-			<div class="header clearfix">
-				<nav>
-					<ul class="nav nav-pills pull-right">
-						<li role="presentation"><a href="index.html">Home</a></li>
-						<li role="presentation"><a href="tendencias.html">Tendencias</a></li>
-						<li role="presentation"><a href="burbujas.html">Burbujas</a></li>
-						<li role="presentation" class="active"><a href="arbol.html">Árbol</a></li>
-					</ul>
-				</nav>
-				<img src="fonts/beersandboardgames.png" style="width:150px;height:112.5px;"/>
-			</div>
+		<!-- Header -->
+<!-- Header -->
+		<header id="header">
+			<a href="index.html" class="logo2">
+			<img src="fonts/beersandboardgames.png" style="width:150px;height:112.5px;"/>
 			
-			<footer class="footer">
-				<p>&copy; 2016 Godoy - Liberona - Peréz </p>
-				<p>Universidad de Santiago de Chile</p>
-			</footer>
+			<a href="index.html" class="logo">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Estilos </strong> y juegos</a>
+			
+			<nav>
+			<a href="#menu">Menu</a>
+			</nav>
+		</header>
+		<!-- Nav -->
+		<nav id="menu">
+			<ul class="links">
+			<li><a href="index.html">Inicio</a></li>
+			<li><a href="tendencias.html">Tendencias en categorías</a></li>
+			<li><a href="burbujas.html">Exploración por Características</a></li>
+			<li><a href="arbol.html">Relación con tu juego</a></li>
+			</ul>
+		</nav>
+		
+		<section id="main">
 
-		</div> <!-- /container -->
+			<div class="inner">
 
-	</body>
+				<p>El arbol presentado a continuación permite conocer y explorar los distintos estilos que existen en relación a los juegos de mesa, mostrando que juegos son más populares dentro de cada estilo y subestilo que presentan las ramas y sus hojas.
+				
+				<center><h1>Arbol de estilos </h1></center>
+				
+
+			</div>
+		</section>
+		<!-- Footer -->
+	<footer id="footer">
+				<ul class="copyright">
+				<img src="fonts/beersandboardgames.png" style="width:150px;height:112.5px;"/>
+				</ul>
+				<div class="copyright">
+					&copy; Gabriel Godoy, Katherine Liberona y Maximiliano Pérez.
+				</div>
+	</footer>
+
+
+		<!-- Scripts -->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/util.js"></script>
+		<script src="js/main.js"></script>
+
+	</body>  
 </html>

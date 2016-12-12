@@ -2354,6 +2354,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			padding-bottom: 100;
 		}
 
 			ul.icons li {
@@ -3059,7 +3060,7 @@
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: rgba(52, 152, 219, 0.55);
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
@@ -3073,6 +3074,20 @@
 	}
 
 		#header .logo {
+			display: inline-block;
+			height: inherit;
+			left: 5.80em;
+			line-height: inherit;
+			margin: 10;
+			padding: 0;
+			position: absolute;
+			top: 0;
+			color: #fff;
+			font-size: 1.25em;
+			text-decoration: none;
+		}
+
+		#header .logo2 {
 			display: inline-block;
 			height: inherit;
 			left: 1.25em;
@@ -3309,7 +3324,7 @@
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
-		padding: 10em 4em 9em 4em;
+		padding: 1em 4em 1em 4em;
 	}
 
 		#banner input, #banner select, #banner textarea {
@@ -4519,7 +4534,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 2em 0;
+		padding: 1em 1em 0.01em 1em;
 		background: #1c1c1c;
 		text-align: center;
 	}
