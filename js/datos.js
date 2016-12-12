@@ -33,8 +33,14 @@
 				}
 			}
 		}
+		var info = new Array(cat.length);
 		for(i = 0;i<cat.length;i++){
-			console.log(cat[i]);
-			console.log(prom[i]/cant[i]);
+			info[i] = new Array(2);
+			//console.log(cat[i]);
+			info[i][0]=cat[i];
+			console.log(info[i][0]);
+			//console.log(prom[i]/cant[i]);
+			info[i][1]=prom[i]/cant[i]
+			console.log(info[i][1]);
 		}
 	});

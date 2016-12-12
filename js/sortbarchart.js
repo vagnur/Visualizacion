@@ -1,6 +1,6 @@
-var margin = {top: 40, right: 20, bottom: 30, left: 40},
-width = 960 - margin.left - margin.right,
-height = 500 - margin.top - margin.bottom;
+var margin = {top: 40, right: 20, bottom: 200, left: 60},
+width = 1270 - margin.left - margin.right,
+height = 700 - margin.top - margin.bottom;
 
 var formatPercent = d3.format("d"); 
 
@@ -23,7 +23,7 @@ var tip = d3.tip()
 	.attr('class', 'd3-tip')
 	.offset([-10, 0])
 	.html(function(d) {
-	return "<strong>Promedio:</strong> <span style='color: #fff2b2'>" + d.Promedio + "</span>";
+	return "<strong>Categoría:</strong> <span style='color: #fff2b2'>" + d.Categoria + "</span><br><strong>Promedio:</strong> <span style='color: #fff2b2'>" + d.Promedio + "</span>";
 })
 
 var svg = d3.select("body").append("svg")
@@ -41,12 +41,17 @@ d3.csv("datos/bar-data.csv", type, function(error, data) {
 	});
 
 	x.domain(data.map(function(d) { return d.Categoria; }));
-	y.domain([0, d3.max(data, function(d) { return d.Promedio; })]);
-
+	//y.domain([d3.min(data, function(d) { return d.Promedio; }), d3.max(data, function(d) { return d.Promedio; })]);
+	y.domain([6,8])
 	svg.append("g")
 		.attr("class", "x axis")
 		.attr("transform", "translate(0," + height + ")")
-		.call(xAxis);
+		.call(xAxis)
+		.selectAll("text")  
+			.style("text-anchor", "end")
+			.attr("dx", "-8em")
+			.attr("dy", "1em")
+			.attr("transform", "rotate(-90)" );;
 
 	svg.append("g")
 		.attr("class", "y axis")
