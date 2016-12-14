@@ -1,0 +1,136 @@
+{
+"name": "Top Level",
+"children": [
+{
+"name": "Categoria: Environmental",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "Roll for the Galaxy", "size": 2},
+{"name": "Jaipur", "size": 2},
+{"name": "Imhotep", "size": 10},
+{"name": "Cartagena", "size": 9},
+{"name": "BattleLore", "size": 82}
+]},{
+"name": "Mecanica: Cooperative Play",
+"children": [
+{"name": "Brew Crafters", "size": 2},
+{"name": "Trajan", "size": 3},
+{"name": "Mr. Jack Pocket", "size": 10},
+{"name": "Xia: Legends of a Drift System", "size": 2},
+{"name": "Asara", "size": 17}
+]},{
+"name": "Mecanica: Hand Management",
+"children": [
+{"name": "Quadropolis", "size": 2},
+{"name": "Ra", "size": 3},
+{"name": "Puzzle Strike (Third Edition)", "size": 2},
+{"name": "DC Comics DeckBuilding Game", "size": 2},
+{"name": "Merchants ", "size": 2}
+]},{
+"name": "Mecanica: Point to Point Movement",
+"children": [
+{"name": "The Duke", "size": 2},
+{"name": "Santiago de Cuba", "size": 3},
+{"name": "Trickerion: Legends of Illusion", "size": 5},
+{"name": "Gravwell: Escape from the 9th Dimension", "size": 2},
+{"name": "For Sale", "size": 2}
+]},{
+"name": "Mecanica: Set Collection",
+"children": [
+{"name": "Small World", "size": 2},
+{"name": "Power Grid: The First Sparks", "size": 3},
+{"name": "Fire ", "size": 10},
+{"name": "Elder Sign", "size": 2},
+{"name": "Rune Age", "size": 17}
+]}]}
+,{
+"name": "Categoria: Medical",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "The Pillars of the Earth", "size": 2},
+{"name": "Super Motherload", "size": 4},
+{"name": "Troyes", "size": 5},
+{"name": "Isle of Skye: From Chieftain to King", "size": 9},
+{"name": "Telestrations", "size": 17}
+]},{
+"name": "Mecanica: Cooperative Play",
+"children": [
+{"name": "Ascension: Storm of Souls", "size": 2},
+{"name": "Letters from Whitechapel", "size": 4},
+{"name": "Freedom: The Underground Railroad", "size": 2},
+{"name": "Rococo", "size": 2},
+{"name": "Castles of Mad King Ludwig", "size": 2}
+]},{
+"name": "Mecanica: Hand Management",
+"children": [
+{"name": "Russian Railroads", "size": 2},
+{"name": "1989: Dawn of Freedom", "size": 4},
+{"name": "1830: Railways ", "size": 5},
+{"name": "Maria", "size": 28},
+{"name": "Lord of the Rings: The Confrontation", "size": 82}
+]},{
+"name": "Mecanica: Point to Point Movement",
+"children": [
+{"name": "Valley of the Kings", "size": 2},
+{"name": "Pictomania", "size": 2},
+{"name": "Witch's Brew", "size": 5},
+{"name": "HeroQuest", "size": 28},
+{"name": "Paperback", "size": 2}
+]},{
+"name": "Mecanica: Set Collection",
+"children": [
+{"name": "Dungeons ", "size": 2},
+{"name": "Saint Petersburg", "size": 2},
+{"name": "Mysterium", "size": 10},
+{"name": "Evolution", "size": 28},
+{"name": "The Manhattan Project", "size": 82}
+]}]}
+,{
+"name": "Categoria: Civilization",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "In the Year of the Dragon", "size": 2},
+{"name": "Antiquity", "size": 3},
+{"name": "Chaos in the Old World", "size": 10},
+{"name": "Mystic Vale", "size": 28},
+{"name": "Dungeon Lords", "size": 17}
+]},{
+"name": "Mecanica: Cooperative Play",
+"children": [
+{"name": "1830: Railways ", "size": 2},
+{"name": "Stone Age", "size": 4},
+{"name": "Ticket to Ride: Nordic Countries", "size": 5},
+{"name": "Ninjato", "size": 2},
+{"name": "Fury of Dracula (third edition)", "size": 82}
+]},{
+"name": "Mecanica: Hand Management",
+"children": [
+{"name": "Codenames", "size": 2},
+{"name": "Carcassonne: The Castle", "size": 3},
+{"name": "Parade", "size": 5},
+{"name": "Carcassonne: The City", "size": 2},
+{"name": "", "size": 2}
+]},{
+"name": "Mecanica: Point to Point Movement",
+"children": [
+{"name": "Clank", "size": 2},
+{"name": "Samurai", "size": 3},
+{"name": "Argent: The Consortium", "size": 2},
+{"name": "The Republic of Rome", "size": 9},
+{"name": "Dominant Species", "size": 17}
+]},{
+"name": "Mecanica: Set Collection",
+"children": [
+{"name": "Dungeons ", "size": 2},
+{"name": "Warrior Knights", "size": 4},
+{"name": "Imperial Settlers", "size": 10},
+{"name": "Star Trek: Fleet Captains", "size": 2},
+{"name": "Aquaretto", "size": 17}
+]}]}
+]}

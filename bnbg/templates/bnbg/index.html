@@ -1,0 +1,86 @@
+{% extends 'bnbg/base.html' %}
+{% block Title %}Beer & Boardgames{% endblock %}
+{% block content %}
+{% load static %}
+	<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h1>Información sobre juegos de mesa<br />
+			</h1>
+			<p style="margin-left:15%;margin-right:15%">¡A continuación se presentarán las tendencias que poseen los juegos de mesas y te ayudará a saber cuál será el próximo juego de mesa que debes adquirir!<p>
+
+			<ul class="actions">
+				<li><a href="#one" class="button alt scrolly big">¡CONTINUAR!</a></li>
+			</ul>
+		</div>
+	</section>
+
+	<!-- One -->
+	<article id="one" class="post style1">
+		<div class="image">
+			
+			<img src="{% static 'bnbg/img/pic01.jpg' %}" data-position="75% center" />
+		</div>
+		
+
+		<div class="content">
+			<div class="inner">
+				<header>
+					<h2><a href="{% url 'tendencias' %}">Tendencias en categorías</a></h2>
+					<p class="info"></p>
+				</header>
+				<p>Se presenta un gráfico de barra en donde se toma la información de los primeros 555 juegos de mesas en el ranking, de los cuales se ven sus categorías, estas categorías son ordenadas por el promedio de las evalaciones de sus jueegos, lo cual sirve para que veas cuales son las <strong>categorías mejor evaluadas</strong></p>
+				<ul class="actions">
+					<li><a href="{% url 'tendencias' %}" class="button alt">¡IR!</a></li>
+				</ul>
+			</div>
+			<div class="postnav">
+
+			</div>
+		</div>
+	</article>
+
+	<!-- Two -->
+	<article id="two" class="post invert style1 alt">
+		<div class="image">
+			<img src="{% static 'bnbg/img/pic02.jpg' %}" data-position="10% center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header>
+					<h2><a href="{% url 'burbujas' %}">Exploración por Características</a></h2>
+					<p class="info">></p>
+				</header>
+				<p>Explora las burbujas a partir de las categorías principales, se mostrarán burbujas que despliegan sus mecánicas, seguidos por las posibles cantidad de jugadores para finalizar con los juegos más reconocidos que posean aquellas características.</p>
+				<ul class="actions">
+					<li><a href="{% url 'burbujas' %}" class="button alt">¡IR!</a></li>
+				</ul>
+			</div>
+			<div class="postnav">
+
+			</div>
+		</div>
+	</article>
+
+	<!-- Three -->
+	<article id="three" class="post style2">
+		<div class="image">
+			<img src="{% static 'bnbg/img/pic03.jpg' %}" data-position="80% center" />
+		</div>
+		<div class="content">
+			<div class="inner">
+				<header>
+					<h2><a href="{% url 'arbol' %}">Relación con tu juego</a></h2>
+					<p class="info"></p>
+				</header>
+				<p>Recorre un árbol que te permitirá conocer y explorar los distintos estilos que existen en relación a tus juegos de mesas conocidos, mostrando qué juegos son más populares dentro de cada estilo y subestilo que presentan las ramas y sus hojas.</p>
+				<ul class="actions">
+					<li><a href="{% url 'arbol' %}" class="button alt">¡IR!</a></li>
+				</ul>
+			</div>
+			<div class="postnav">
+				
+			</div>
+		</div>
+	</article>
+{% endblock %}
