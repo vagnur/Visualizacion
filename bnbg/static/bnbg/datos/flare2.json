@@ -1,112 +1,112 @@
 {
-"name": "Through the Ages: A Story of Civilization",
+"name": "Small World",
 "children": [
 {
-"name": "Categoria: City Building",
+"name": "Categoria: Fantasy",
 "children": [
 {
-"name": "Mecanica: Action Point Allowance System",
+"name": "Mecanica: Area Control / Area Influence",
 "children": [
-{"name": "Imperial Settlers", "size": 2},
-{"name": "Glory to Rome", "size": 3},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 5},
-{"name": "Clash of Cultures", "size": 28},
-{"name": "Bruges", "size": 2}
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Blood Rage", "size": 3},
+{"name": "Eldritch Horror", "size": 10},
+{"name": "Mansions of Madness: Second Edition", "size": 2},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 82}
 ]},{
-"name": "Mecanica: Auction/Bidding",
+"name": "Mecanica: Area Movement",
 "children": [
-{"name": "Imperial Settlers", "size": 2},
-{"name": "Glory to Rome", "size": 2},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 10},
-{"name": "Clash of Cultures", "size": 9},
-{"name": "Bruges", "size": 17}
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Blood Rage", "size": 2},
+{"name": "Eldritch Horror", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 9},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 17}
 ]},{
-"name": "Mecanica: Card Drafting",
+"name": "Mecanica: Dice Rolling",
 "children": [
-{"name": "Imperial Settlers", "size": 2},
-{"name": "Glory to Rome", "size": 3},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 5},
-{"name": "Clash of Cultures", "size": 9},
-{"name": "Bruges", "size": 2}
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Blood Rage", "size": 2},
+{"name": "Eldritch Horror", "size": 10},
+{"name": "Mansions of Madness: Second Edition", "size": 9},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 17}
 ]},{
-"name": "Mecanica: Hand Management",
+"name": "Mecanica: Variable Player Powers",
 "children": [
-{"name": "Imperial Settlers", "size": 2},
-{"name": "Glory to Rome", "size": 3},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 5},
-{"name": "Clash of Cultures", "size": 2},
-{"name": "Bruges", "size": 17}
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Blood Rage", "size": 3},
+{"name": "Eldritch Horror", "size": 10},
+{"name": "Mansions of Madness: Second Edition", "size": 28},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 17}
 ]}]}
 ,{
-"name": "Categoria: Civilization",
+"name": "Categoria: Fighting",
 "children": [
 {
-"name": "Mecanica: Action Point Allowance System",
+"name": "Mecanica: Area Control / Area Influence",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Race for the Galaxy", "size": 4},
-{"name": "Tigris ", "size": 2},
-{"name": "Imperial Settlers", "size": 9},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 2}
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 4},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Blood Rage", "size": 28},
+{"name": "Eclipse", "size": 17}
 ]},{
-"name": "Mecanica: Auction/Bidding",
+"name": "Mecanica: Area Movement",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Race for the Galaxy", "size": 2},
-{"name": "Tigris ", "size": 10},
-{"name": "Imperial Settlers", "size": 9},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 17}
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 3},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Blood Rage", "size": 9},
+{"name": "Eclipse", "size": 17}
 ]},{
-"name": "Mecanica: Card Drafting",
+"name": "Mecanica: Dice Rolling",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Race for the Galaxy", "size": 3},
-{"name": "Tigris ", "size": 2},
-{"name": "Imperial Settlers", "size": 2},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 82}
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 4},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Blood Rage", "size": 28},
+{"name": "Eclipse", "size": 82}
 ]},{
-"name": "Mecanica: Hand Management",
+"name": "Mecanica: Variable Player Powers",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Race for the Galaxy", "size": 4},
-{"name": "Tigris ", "size": 10},
-{"name": "Imperial Settlers", "size": 28},
-{"name": "Sid Meier's Civilization: The Board Game", "size": 17}
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Blood Rage", "size": 9},
+{"name": "Eclipse", "size": 17}
 ]}]}
 ,{
-"name": "Categoria: Economic",
+"name": "Categoria: Territory Building",
 "children": [
 {
-"name": "Mecanica: Action Point Allowance System",
+"name": "Mecanica: Area Control / Area Influence",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
+{"name": "Scythe", "size": 2},
 {"name": "Terraforming Mars", "size": 2},
-{"name": "Concordia", "size": 5},
-{"name": "Race for the Galaxy", "size": 9},
-{"name": "Viticulture Essential Edition", "size": 2}
+{"name": "Clash of Cultures", "size": 5},
+{"name": "Small World Underground", "size": 28},
+{"name": "StarCraft: The Board Game", "size": 82}
 ]},{
-"name": "Mecanica: Auction/Bidding",
+"name": "Mecanica: Area Movement",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
+{"name": "Scythe", "size": 2},
+{"name": "Terraforming Mars", "size": 3},
+{"name": "Clash of Cultures", "size": 5},
+{"name": "Small World Underground", "size": 2},
+{"name": "StarCraft: The Board Game", "size": 2}
+]},{
+"name": "Mecanica: Dice Rolling",
+"children": [
+{"name": "Scythe", "size": 2},
 {"name": "Terraforming Mars", "size": 4},
-{"name": "Concordia", "size": 5},
-{"name": "Race for the Galaxy", "size": 9},
-{"name": "Viticulture Essential Edition", "size": 2}
+{"name": "Clash of Cultures", "size": 2},
+{"name": "Small World Underground", "size": 28},
+{"name": "StarCraft: The Board Game", "size": 17}
 ]},{
-"name": "Mecanica: Card Drafting",
+"name": "Mecanica: Variable Player Powers",
 "children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Terraforming Mars", "size": 3},
-{"name": "Concordia", "size": 10},
-{"name": "Race for the Galaxy", "size": 9},
-{"name": "Viticulture Essential Edition", "size": 2}
-]},{
-"name": "Mecanica: Hand Management",
-"children": [
-{"name": "Through the Ages: A New Story of Civilization", "size": 2},
-{"name": "Terraforming Mars", "size": 3},
-{"name": "Concordia", "size": 10},
-{"name": "Race for the Galaxy", "size": 28},
-{"name": "Viticulture Essential Edition", "size": 17}
+{"name": "Scythe", "size": 2},
+{"name": "Terraforming Mars", "size": 2},
+{"name": "Clash of Cultures", "size": 5},
+{"name": "Small World Underground", "size": 28},
+{"name": "StarCraft: The Board Game", "size": 2}
 ]}]}
 ]}
