@@ -5,20 +5,20 @@
 	<script src="http://d3js.org/d3.v4.min.js"></script>
 	<section id="main">
 
-
-
 		<div class="inner">
 
 			<p>Explora las burbujas a partir de las categorías principales, se mostrarán burbujas que despliegan sus mecánicas, seguidos por las posibles cantidad de jugadores para finalizar con los juegos más reconocidos que posean aquellas características.</p>
+
 			<center><h1>Seleccione un gráfico</h1></center>
-			<select id="dropbubble" onChange="window.location.href=this.value">
-				<option selected value="{% url 'burbujas' %}">Gráfico 1</option>
+			<select onChange="window.location.href=this.value">
+				<option value="{% url 'burbujas' %}">Gráfico 1</option>
 				<option value="{% url 'burbujas2' %}">Gráfico 2</option>
 				<option value="{% url 'burbujas3' %}">Gráfico 3</option>
-				<option value="{% url 'burbujas4' %}">Gráfico 4</option>
+				<option selected value="{% url 'burbujas4' %}">Gráfico 4</option>
 			</select>
 			<br>
-			<center><h2>Burbujas de categorías 1</h2></center>
+
+			<center><h2>Burbujas de categorías 4</h2></center>
 			
 			<center><svg width="800" height="800"></svg></center>
 
@@ -39,7 +39,7 @@
 						.size([diameter - margin, diameter - margin])
 						.padding(2);
 					{% load static %}
-					d3.json("{% static 'bnbg/datos/burbuja1.json' %}", function(error, root) {
+					d3.json("{% static 'bnbg/datos/burbuja4.json' %}", function(error, root) {
 						if (error) throw error;
 
 						root = d3.hierarchy(root)

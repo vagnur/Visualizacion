@@ -1,0 +1,541 @@
+{
+"name": "Top Level",
+"children": [
+{
+"name": "Categoria: Movies / TV / Radio theme",
+"children": [
+{
+"name": "Mecanica: PaperandPencil",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Cartagena", "size": 2},
+{"name": "Spot it", "size": 3},
+{"name": "Mansions of Madness: Second Edition", "size": 5},
+{"name": "The Big Book of Madness", "size": 2},
+{"name": "Lords of Waterdeep", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "BANG", "size": 2},
+{"name": "BANG", "size": 4},
+{"name": "Thunder Alley", "size": 2},
+{"name": "Neuroshima Hex", "size": 28},
+{"name": "Mage Wars Arena", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Xia: Legends of a Drift System", "size": 2},
+{"name": "1830: Railways ", "size": 2},
+{"name": "Duel of Ages II", "size": 5},
+{"name": "StarCraft: The Board Game", "size": 2},
+{"name": "Nations: The Dice Game", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Factory Fun", "size": 2},
+{"name": "Deep Sea Adventure", "size": 4},
+{"name": "High Society", "size": 2},
+{"name": "Navegador", "size": 28},
+{"name": "Duel of Ages II", "size": 17}
+]}]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Catan Card Game", "size": 2},
+{"name": "Warhammer Quest: The Adventure Card Game", "size": 2},
+{"name": "Deception: Murder in Hong Kong", "size": 10},
+{"name": "The Duke", "size": 2},
+{"name": "Up Front", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Stronghold", "size": 2},
+{"name": "Star Realms", "size": 2},
+{"name": "Arkham Horror: The Card Game", "size": 5},
+{"name": "The Gallerist", "size": 28},
+{"name": "Raiders of the North Sea", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Star Trek: Catan", "size": 2},
+{"name": "Advanced Squad Leader", "size": 4},
+{"name": "HeroQuest", "size": 5},
+{"name": "7 Wonders Duel", "size": 9},
+{"name": "King of New York", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "EightMinute Empire: Legends", "size": 2},
+{"name": "Peloponnes", "size": 3},
+{"name": "Telestrations", "size": 5},
+{"name": "Saint Petersburg", "size": 9},
+{"name": "A Distant Plain", "size": 2}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Lord of the Rings: The Confrontation", "size": 2},
+{"name": "Coconuts", "size": 4},
+{"name": "The Great Zimbabwe", "size": 10},
+{"name": "Dungeon Petz", "size": 2},
+{"name": "Karuba", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Titan", "size": 2},
+{"name": "Robo Rally", "size": 3},
+{"name": "Conflict of Heroes: Awakening the Bear", "size": 5},
+{"name": "Shadows over Camelot", "size": 2},
+{"name": "Star Realms", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Arkwright", "size": 2},
+{"name": "Galaxy Trucker", "size": 4},
+{"name": "Call of Cthulhu: The Card Game", "size": 2},
+{"name": "Gravwell: Escape from the 9th Dimension", "size": 2},
+{"name": "Viticulture Essential Edition", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Steam", "size": 2},
+{"name": "War of the Ring (first edition)", "size": 3},
+{"name": "The Manhattan Project", "size": 5},
+{"name": "Rise of Empires", "size": 9},
+{"name": "Santiago de Cuba", "size": 17}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Lords of Xidit", "size": 2},
+{"name": "Mystic Vale", "size": 2},
+{"name": "Hive", "size": 2},
+{"name": "Antiquity", "size": 28},
+{"name": "Small World Underground", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Inis", "size": 2},
+{"name": "Small World Underground", "size": 4},
+{"name": "Merchants ", "size": 10},
+{"name": "The Pillars of the Earth", "size": 28},
+{"name": "The Duke", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "San Marco", "size": 2},
+{"name": "Elfenland", "size": 3},
+{"name": "Hawaii", "size": 5},
+{"name": "Here I Stand", "size": 2},
+{"name": "Tales ", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Mysterium", "size": 2},
+{"name": "Roll for the Galaxy", "size": 2},
+{"name": "Navegador", "size": 2},
+{"name": "Tikal", "size": 28},
+{"name": "Summoner Wars", "size": 82}
+]}]},{
+"name": "Mecanica: Take That",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "The Republic of Rome", "size": 2},
+{"name": "Spot it", "size": 3},
+{"name": "Summoner Wars", "size": 5},
+{"name": "Modern Art", "size": 2},
+{"name": "Dixit", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Thunderstone", "size": 2},
+{"name": "Evo", "size": 2},
+{"name": "DC Comics DeckBuilding Game", "size": 2},
+{"name": "Fresco", "size": 28},
+{"name": "City of Iron", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Civilization", "size": 2},
+{"name": "Kingsburg", "size": 2},
+{"name": "Maria", "size": 10},
+{"name": "Conflict of Heroes: Awakening the Bear", "size": 28},
+{"name": "DDay Dice", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Ninjato", "size": 2},
+{"name": "Bruxelles 1893", "size": 4},
+{"name": "Kanban: Automotive Revolution", "size": 5},
+{"name": "Madeira", "size": 28},
+{"name": "Chaos in the Old World", "size": 2}
+]}]}]}
+,{
+"name": "Categoria: Medical",
+"children": [
+{
+"name": "Mecanica: PaperandPencil",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Age of Steam", "size": 2},
+{"name": "Kingsburg", "size": 2},
+{"name": "Runewars", "size": 10},
+{"name": "Blue Moon", "size": 2},
+{"name": "Nexus Ops", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Thunderstone Advance: Towers of Ruin", "size": 2},
+{"name": "Loony Quest", "size": 2},
+{"name": "Twilight Struggle", "size": 5},
+{"name": "High Society", "size": 9},
+{"name": "The Pillars of the Earth", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Bruxelles 1893", "size": 2},
+{"name": "Lords of Waterdeep", "size": 2},
+{"name": "Smash Up", "size": 10},
+{"name": "El Grande", "size": 2},
+{"name": "San Marco", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Descent: Journeys in the Dark", "size": 2},
+{"name": "Troyes", "size": 3},
+{"name": "HeroQuest", "size": 2},
+{"name": "Fortune and Glory: The Cliffhanger Game", "size": 2},
+{"name": "Animal Upon Animal", "size": 2}
+]}]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Carcassonne: The City", "size": 2},
+{"name": "Flash Point: Fire Rescue", "size": 2},
+{"name": "Witch's Brew", "size": 2},
+{"name": "Spartacus: A Game of Blood ", "size": 9},
+{"name": "L", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Terror in Meeple City", "size": 2},
+{"name": "Amerigo", "size": 2},
+{"name": "Colt Express", "size": 10},
+{"name": "The Pillars of the Earth", "size": 2},
+{"name": "Claustrophobia", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "The Grizzled", "size": 2},
+{"name": "Roll for the Galaxy", "size": 4},
+{"name": "Tikal", "size": 2},
+{"name": "Last Will", "size": 28},
+{"name": "San Marco", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "A Distant Plain", "size": 2},
+{"name": "High Frontier", "size": 2},
+{"name": "Ticket to Ride: Nordic Countries", "size": 2},
+{"name": "Tides of Time", "size": 9},
+{"name": "London", "size": 17}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Andean Abyss", "size": 2},
+{"name": "Fire ", "size": 3},
+{"name": "Arkham Horror: The Card Game", "size": 10},
+{"name": "Last Night on Earth: The Zombie Game", "size": 28},
+{"name": "Dark Moon", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Ghost Stories", "size": 2},
+{"name": "Antike", "size": 2},
+{"name": "Condottiere", "size": 2},
+{"name": "Star Trek: Catan", "size": 2},
+{"name": "Ashes: Rise of the Phoenixborn", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Conflict of Heroes: Awakening the Bear", "size": 2},
+{"name": "Viticulture", "size": 3},
+{"name": "Tikal", "size": 2},
+{"name": "Wits ", "size": 2},
+{"name": "Advanced Squad Leader", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Carcassonne: The City", "size": 2},
+{"name": "Z", "size": 2},
+{"name": "Smash Up: Awesome Level 9000", "size": 5},
+{"name": "Mansions of Madness", "size": 28},
+{"name": "Viticulture", "size": 17}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Pictomania", "size": 2},
+{"name": "Gold West", "size": 4},
+{"name": "Suburbia", "size": 2},
+{"name": "Kanban: Automotive Revolution", "size": 2},
+{"name": "Pandemic", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Dungeon Twister", "size": 2},
+{"name": "StarCraft: The Board Game", "size": 2},
+{"name": "DC Comics Dice Masters: Justice League", "size": 10},
+{"name": "Summoner Wars: Master Set", "size": 28},
+{"name": "The Bloody Inn", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Deus", "size": 2},
+{"name": "The Gallerist", "size": 3},
+{"name": "Last Night on Earth: The Zombie Game", "size": 5},
+{"name": "EightMinute Empire: Legends", "size": 28},
+{"name": "The Great Zimbabwe", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Paperback", "size": 2},
+{"name": "The Magic Labyrinth", "size": 3},
+{"name": "Star Trek: Catan", "size": 10},
+{"name": "Tales ", "size": 9},
+{"name": "Advanced Squad Leader: Starter Kit ", "size": 2}
+]}]},{
+"name": "Mecanica: Take That",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Pixel Tactics", "size": 2},
+{"name": "Kremlin", "size": 4},
+{"name": "Letters from Whitechapel", "size": 5},
+{"name": "Giants", "size": 9},
+{"name": "Summoner Wars: Alliances Master Set", "size": 17}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Wallenstein (second edition)", "size": 2},
+{"name": "Tragedy Looper", "size": 3},
+{"name": "Catan", "size": 5},
+{"name": "Z", "size": 2},
+{"name": "Carcassonne: Winter Edition", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Asara", "size": 2},
+{"name": "Zombicide: Black Plague", "size": 4},
+{"name": "For Sale", "size": 10},
+{"name": "Coal Baron", "size": 9},
+{"name": "Rialto", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Ricochet Robots", "size": 2},
+{"name": "Dixit", "size": 4},
+{"name": "Codenames", "size": 2},
+{"name": "Sushi Go", "size": 28},
+{"name": "Risk Legacy", "size": 82}
+]}]}]}
+,{
+"name": "Categoria: Fighting",
+"children": [
+{
+"name": "Mecanica: PaperandPencil",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Pixel Tactics", "size": 2},
+{"name": "Dungeon Lords", "size": 4},
+{"name": "A Feast for Odin", "size": 2},
+{"name": "Modern Art", "size": 28},
+{"name": "Europe Engulfed", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "AquaSphere", "size": 2},
+{"name": "The Grizzled", "size": 4},
+{"name": "Dogs of War", "size": 2},
+{"name": "The Magic Labyrinth", "size": 9},
+{"name": "Thunder Alley", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "The Scepter of Zavandor", "size": 2},
+{"name": "High Frontier", "size": 3},
+{"name": "Modern Art", "size": 10},
+{"name": "Tragedy Looper", "size": 9},
+{"name": "Fresco", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Peloponnes", "size": 2},
+{"name": "Himalaya", "size": 3},
+{"name": "Commands ", "size": 10},
+{"name": "Web of Power", "size": 2},
+{"name": "Cosmic Encounter", "size": 82}
+]}]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Lord of the Rings: The Confrontation", "size": 2},
+{"name": "Imperial 2030", "size": 3},
+{"name": "Tiny Epic Galaxies", "size": 5},
+{"name": "Nations", "size": 28},
+{"name": "San Juan (second edition)", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Nexus Ops", "size": 2},
+{"name": "Titan", "size": 3},
+{"name": "Small World", "size": 10},
+{"name": "Codenames: Pictures", "size": 28},
+{"name": "Dogs of War", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Asara", "size": 2},
+{"name": "Power Grid: The First Sparks", "size": 4},
+{"name": "Elysium", "size": 10},
+{"name": "Mystery Rummy: Jack the Ripper", "size": 28},
+{"name": "Clank", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Aladdin's Dragons", "size": 2},
+{"name": "Dungeon Lords", "size": 3},
+{"name": "Nations", "size": 10},
+{"name": "Evolution", "size": 9},
+{"name": "Starship Catan", "size": 17}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Star Trek: Catan", "size": 2},
+{"name": "Euphoria: Build a Better Dystopia", "size": 3},
+{"name": "Planet Steam", "size": 2},
+{"name": "BattleLore", "size": 9},
+{"name": "Power Grid deluxe: Europe/North America", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Condottiere", "size": 2},
+{"name": "Lancaster", "size": 3},
+{"name": "Napoleon's Triumph", "size": 10},
+{"name": "A Distant Plain", "size": 9},
+{"name": "Ghost Stories", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Legendary: A Marvel Deck Building Game", "size": 2},
+{"name": "Spyfall", "size": 4},
+{"name": "Ascension: Deckbuilding Game", "size": 10},
+{"name": "Raiders of the North Sea", "size": 28},
+{"name": "Cleopatra and the Society of Architects", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Madeira", "size": 2},
+{"name": "Elder Sign", "size": 4},
+{"name": "Akrotiri", "size": 10},
+{"name": "A Game of Thrones: The Card Game", "size": 28},
+{"name": "Battlestar Galactica", "size": 82}
+]}]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "1830: Railways ", "size": 2},
+{"name": "Sticheln", "size": 3},
+{"name": "Quadropolis", "size": 5},
+{"name": "Power Grid: The First Sparks", "size": 9},
+{"name": "Puzzle Strike (Third Edition)", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Karuba", "size": 2},
+{"name": "Love Letter", "size": 3},
+{"name": "Fortune and Glory: The Cliffhanger Game", "size": 5},
+{"name": "Mage Wars Arena", "size": 9},
+{"name": "Amerigo", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 2},
+{"name": "Nations", "size": 2},
+{"name": "Heroscape Master Set: Rise of the Valkyrie", "size": 5},
+{"name": "War of the Ring (first edition)", "size": 2},
+{"name": "Shakespeare", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Arkham Horror: The Card Game", "size": 2},
+{"name": "Elder Sign", "size": 2},
+{"name": "Spyfall", "size": 5},
+{"name": "Francis Drake", "size": 2},
+{"name": "Imhotep", "size": 2}
+]}]},{
+"name": "Mecanica: Take That",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Ascending Empires", "size": 2},
+{"name": "Call of Cthulhu: The Card Game", "size": 2},
+{"name": "Abyss", "size": 5},
+{"name": "Friday", "size": 2},
+{"name": "Dungeons ", "size": 17}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Sushi Go", "size": 2},
+{"name": "Through the Ages: A Story of Civilization", "size": 4},
+{"name": "Wars of the Roses: Lancaster vs. York", "size": 5},
+{"name": "Ascension: Storm of Souls", "size": 28},
+{"name": "Dungeons ", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Sherlock Holmes Consulting Detective", "size": 2},
+{"name": "La Citt", "size": 4},
+{"name": "The Grizzled", "size": 2},
+{"name": "Castles of Mad King Ludwig", "size": 28},
+{"name": "Wings of War: Famous Aces", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Jambo", "size": 2},
+{"name": "BANG", "size": 3},
+{"name": "Twilight Struggle", "size": 5},
+{"name": "Bruges", "size": 9},
+{"name": "Colossal Arena", "size": 2}
+]}]}]}
+]}

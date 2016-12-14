@@ -1,0 +1,541 @@
+{
+"name": "Top Level",
+"children": [
+{
+"name": "Categoria: Puzzle",
+"children": [
+{
+"name": "Mecanica: Simultaneous Action Selection",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "The Staufer Dynasty", "size": 2},
+{"name": "Hansa Teutonica", "size": 3},
+{"name": "Colossal Arena", "size": 2},
+{"name": "Mystic Vale", "size": 28},
+{"name": "Between Two Cities", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Le Havre", "size": 2},
+{"name": "Here I Stand", "size": 4},
+{"name": "Firefly: The Game", "size": 5},
+{"name": "Qwixx", "size": 2},
+{"name": "Patchwork", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Cyclades", "size": 2},
+{"name": "Keyflower", "size": 2},
+{"name": "King of New York", "size": 5},
+{"name": "Trains: Rising Sun", "size": 2},
+{"name": "Acquire", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Thurn and Taxis", "size": 2},
+{"name": "Paperback", "size": 2},
+{"name": "Tragedy Looper", "size": 2},
+{"name": "Keyflower", "size": 28},
+{"name": "Belfort", "size": 82}
+]}]},{
+"name": "Mecanica: Pickup and Deliver",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Ascension: Return of the Fallen", "size": 2},
+{"name": "War of the Ring (second edition)", "size": 2},
+{"name": "Time's Up", "size": 2},
+{"name": "Freedom: The Underground Railroad", "size": 9},
+{"name": "HeroQuest", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Dice Town", "size": 2},
+{"name": "The Bloody Inn", "size": 2},
+{"name": "Mansions of Madness", "size": 10},
+{"name": "Ashes: Rise of the Phoenixborn", "size": 2},
+{"name": "Successors (third edition)", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Wallenstein (first edition)", "size": 2},
+{"name": "Coal Baron", "size": 4},
+{"name": "Paperback", "size": 2},
+{"name": "Hansa Teutonica", "size": 28},
+{"name": "Tyrants of the Underdark", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Age of Empires III: The Age of Discovery", "size": 2},
+{"name": "One Night Ultimate Werewolf", "size": 2},
+{"name": "The Magic Labyrinth", "size": 10},
+{"name": "Coal Baron", "size": 28},
+{"name": "Glory to Rome", "size": 17}
+]}]},{
+"name": "Mecanica: Roll / Spin and Move",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Primordial Soup", "size": 2},
+{"name": "Raiders of the North Sea", "size": 2},
+{"name": "Ingenious: Travel Edition", "size": 2},
+{"name": "Thunderstone", "size": 28},
+{"name": "Star Wars: The Queen's Gambit", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Pathfinder Adventure Card Game: Skull ", "size": 2},
+{"name": "Civilization", "size": 4},
+{"name": "Die Macher", "size": 10},
+{"name": "Thunderstone: Dragonspire", "size": 28},
+{"name": "Doom: The Boardgame", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Wallenstein (second edition)", "size": 2},
+{"name": "Fortune and Glory: The Cliffhanger Game", "size": 3},
+{"name": "Isle of Skye: From Chieftain to King", "size": 2},
+{"name": "Airlines Europe", "size": 2},
+{"name": "Olympos", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Wallenstein (first edition)", "size": 2},
+{"name": "Roma", "size": 4},
+{"name": "Sushi Go", "size": 10},
+{"name": "Age of Steam", "size": 28},
+{"name": "Glass Road", "size": 82}
+]}]},{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Nations: The Dice Game", "size": 2},
+{"name": "Imperial 2030", "size": 4},
+{"name": "The Networks", "size": 10},
+{"name": "Orl", "size": 9},
+{"name": "Time's Up", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Parade", "size": 2},
+{"name": "Medieval Academy", "size": 2},
+{"name": "The Gallerist", "size": 5},
+{"name": "Successors (third edition)", "size": 2},
+{"name": "TumblinDice", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "The Civil War", "size": 2},
+{"name": "FUSE", "size": 3},
+{"name": "Claustrophobia", "size": 2},
+{"name": "Marvel Dice Masters: Avengers vs. XMen", "size": 28},
+{"name": "Automobile", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Ticket to Ride: Europe", "size": 2},
+{"name": "Terraforming Mars", "size": 2},
+{"name": "Fire ", "size": 5},
+{"name": "A Distant Plain", "size": 9},
+{"name": "Caylus", "size": 82}
+]}]},{
+"name": "Mecanica: Auction/Bidding",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Witch's Brew", "size": 2},
+{"name": "Through the Ages: A New Story of Civilization", "size": 4},
+{"name": "Roads ", "size": 10},
+{"name": "Deus", "size": 2},
+{"name": "Doomtown: Reloaded", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Love Letter", "size": 2},
+{"name": "Fief: France 1429", "size": 4},
+{"name": "Cartagena", "size": 10},
+{"name": "Age of Renaissance", "size": 28},
+{"name": "BattleLore (Second Edition)", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Space Hulk (third edition)", "size": 2},
+{"name": "Trains: Rising Sun", "size": 3},
+{"name": "Letters from Whitechapel", "size": 10},
+{"name": "Captain Sonar", "size": 9},
+{"name": "The Magic Labyrinth", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Dixit Odyssey", "size": 2},
+{"name": "Mission: Red Planet (second edition)", "size": 3},
+{"name": "Ricochet Robots", "size": 2},
+{"name": "Himalaya", "size": 2},
+{"name": "Struggle of Empires", "size": 2}
+]}]}]}
+,{
+"name": "Categoria: Arabian",
+"children": [
+{
+"name": "Mecanica: Simultaneous Action Selection",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Valley of the Kings", "size": 2},
+{"name": "The Networks", "size": 2},
+{"name": "War of the Ring (second edition)", "size": 2},
+{"name": "Summoner Wars: Master Set", "size": 2},
+{"name": "Forbidden Desert", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "The Resistance", "size": 2},
+{"name": "Coal Baron", "size": 3},
+{"name": "Empire of the Sun", "size": 2},
+{"name": "Advanced Squad Leader", "size": 9},
+{"name": "BANG", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Lancaster", "size": 2},
+{"name": "Orl", "size": 4},
+{"name": "Bora Bora", "size": 10},
+{"name": "The Networks", "size": 2},
+{"name": "High Frontier", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Titan", "size": 2},
+{"name": "Z", "size": 3},
+{"name": "Elysium", "size": 5},
+{"name": "Star Wars: Rebellion", "size": 9},
+{"name": "Risk Legacy", "size": 82}
+]}]},{
+"name": "Mecanica: Pickup and Deliver",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Euphoria: Build a Better Dystopia", "size": 2},
+{"name": "Chaos in the Old World", "size": 4},
+{"name": "BANG", "size": 2},
+{"name": "Commands ", "size": 28},
+{"name": "Tales of the Arabian Nights", "size": 17}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Europe Engulfed", "size": 2},
+{"name": "Tide of Iron", "size": 2},
+{"name": "Z", "size": 5},
+{"name": "Hansa Teutonica", "size": 9},
+{"name": "Steam", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "The Voyages of Marco Polo", "size": 2},
+{"name": "Ora et Labora", "size": 3},
+{"name": "Elder Sign", "size": 10},
+{"name": "Civilization", "size": 28},
+{"name": "Patchwork", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Freedom: The Underground Railroad", "size": 2},
+{"name": "Russian Railroads", "size": 2},
+{"name": "Mice and Mystics", "size": 2},
+{"name": "Thurn and Taxis", "size": 28},
+{"name": "Automobile", "size": 17}
+]}]},{
+"name": "Mecanica: Roll / Spin and Move",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Runebound (Third Edition)", "size": 2},
+{"name": "Champions of Midgard", "size": 3},
+{"name": "Legacy: The Testament of Duke de Crecy", "size": 5},
+{"name": "Glory to Rome", "size": 2},
+{"name": "Shadows of Brimstone: City of the Ancients", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "London", "size": 2},
+{"name": "7 Wonders Duel", "size": 4},
+{"name": "Hansa Teutonica", "size": 5},
+{"name": "Ra", "size": 28},
+{"name": "Mysterium", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Earth Reborn", "size": 2},
+{"name": "Asara", "size": 4},
+{"name": "Star Trek: Fleet Captains", "size": 5},
+{"name": "Gravwell: Escape from the 9th Dimension", "size": 28},
+{"name": "Patchwork", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "TumblinDice", "size": 2},
+{"name": "Mysterium", "size": 3},
+{"name": "Roads ", "size": 2},
+{"name": "London", "size": 2},
+{"name": "Ascension: Storm of Souls", "size": 17}
+]}]},{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Orl", "size": 2},
+{"name": "Aquaretto", "size": 2},
+{"name": "Lords of Waterdeep", "size": 5},
+{"name": "Forbidden Stars", "size": 9},
+{"name": "Samurai", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Advanced Squad Leader", "size": 2},
+{"name": "Kremlin", "size": 3},
+{"name": "Concordia", "size": 2},
+{"name": "DVONN", "size": 28},
+{"name": "Summoner Wars", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Through the Ages: A New Story of Civilization", "size": 2},
+{"name": "Blue Moon", "size": 2},
+{"name": "Arkwright", "size": 2},
+{"name": "Imperial Settlers", "size": 9},
+{"name": "Suburbia", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "For Sale", "size": 2},
+{"name": "Puzzle Strike (Third Edition)", "size": 4},
+{"name": "Champions of Midgard", "size": 5},
+{"name": "Antike", "size": 28},
+{"name": "Broom Service", "size": 82}
+]}]},{
+"name": "Mecanica: Auction/Bidding",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Splendor", "size": 2},
+{"name": "Carcassonne: The Castle", "size": 3},
+{"name": "Mascarade", "size": 2},
+{"name": "Aquaretto", "size": 28},
+{"name": "Carcassonne: The City", "size": 17}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Dogs of War", "size": 2},
+{"name": "Catan", "size": 3},
+{"name": "Stronghold", "size": 2},
+{"name": "For Sale", "size": 2},
+{"name": "The Gallerist", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "The Great Zimbabwe", "size": 2},
+{"name": "Stone Age", "size": 2},
+{"name": "Abyss", "size": 2},
+{"name": "The Scepter of Zavandor", "size": 9},
+{"name": "The Gallerist", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Warrior Knights", "size": 2},
+{"name": "Civilization", "size": 3},
+{"name": "Pictomania", "size": 2},
+{"name": "Bruxelles 1893", "size": 28},
+{"name": "Great Western Trail", "size": 82}
+]}]}]}
+,{
+"name": "Categoria: Novelbased",
+"children": [
+{
+"name": "Mecanica: Simultaneous Action Selection",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Dixit Odyssey", "size": 2},
+{"name": "1989: Dawn of Freedom", "size": 2},
+{"name": "Nippon", "size": 2},
+{"name": "Pandemic Legacy: Season 1", "size": 28},
+{"name": "Risk Legacy", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Core Worlds", "size": 2},
+{"name": "Thunderstone Advance: Towers of Ruin", "size": 3},
+{"name": "", "size": 10},
+{"name": "New York 1901", "size": 9},
+{"name": "Istanbul", "size": 2}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "AmunRe", "size": 2},
+{"name": "Lord of the Rings: The Confrontation", "size": 4},
+{"name": "Earth Reborn", "size": 2},
+{"name": "Medieval Academy", "size": 9},
+{"name": "The Scepter of Zavandor", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "La Citt", "size": 2},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 2},
+{"name": "Napoleon's Triumph", "size": 2},
+{"name": "The Voyages of Marco Polo", "size": 2},
+{"name": "Xia: Legends of a Drift System", "size": 17}
+]}]},{
+"name": "Mecanica: Pickup and Deliver",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Broom Service", "size": 2},
+{"name": "Viticulture Essential Edition", "size": 4},
+{"name": "Between Two Cities", "size": 10},
+{"name": "Star Wars: Imperial Assault", "size": 28},
+{"name": "Through the Ages: A New Story of Civilization", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Hannibal: Rome vs. Carthage", "size": 2},
+{"name": "Dune", "size": 4},
+{"name": "Z", "size": 5},
+{"name": "Star Wars: The Queen's Gambit", "size": 9},
+{"name": "Broom Service", "size": 17}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Sword of Rome", "size": 2},
+{"name": "Firefly: The Game", "size": 3},
+{"name": "Haggis", "size": 2},
+{"name": "A Touch of Evil: The Supernatural Game", "size": 28},
+{"name": "Dixit: Journey", "size": 17}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Starship Catan", "size": 2},
+{"name": "Roads ", "size": 3},
+{"name": "DC Comics DeckBuilding Game", "size": 5},
+{"name": "Bausack", "size": 28},
+{"name": "Risk Legacy", "size": 2}
+]}]},{
+"name": "Mecanica: Roll / Spin and Move",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Imperial 2030", "size": 2},
+{"name": "Blood Bowl (Third Edition)", "size": 3},
+{"name": "Fief: France 1429", "size": 5},
+{"name": "", "size": 9},
+{"name": "King of New York", "size": 82}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Power Grid", "size": 2},
+{"name": "Santiago", "size": 3},
+{"name": "Love Letter", "size": 5},
+{"name": "Carcassonne: South Seas", "size": 9},
+{"name": "Agricola:", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Le Havre: The Inland Port", "size": 2},
+{"name": "Hive", "size": 2},
+{"name": "City of Iron", "size": 10},
+{"name": "Star Wars: Armada", "size": 9},
+{"name": "Arkwright", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Dark Moon", "size": 2},
+{"name": "A Distant Plain", "size": 2},
+{"name": "Catan", "size": 10},
+{"name": "Broom Service", "size": 9},
+{"name": "Sticheln", "size": 2}
+]}]},{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Deception: Murder in Hong Kong", "size": 2},
+{"name": "Hawaii", "size": 3},
+{"name": "La Granja", "size": 5},
+{"name": "Caylus Magna Carta", "size": 2},
+{"name": "AquaSphere", "size": 17}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "New York 1901", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 3},
+{"name": "Roll for the Galaxy", "size": 5},
+{"name": "Mansions of Madness: Second Edition", "size": 2},
+{"name": "Modern Art", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Thurn and Taxis", "size": 2},
+{"name": "Carcassonne: South Seas", "size": 2},
+{"name": "Dungeons ", "size": 2},
+{"name": "San Marco", "size": 2},
+{"name": "Forbidden Stars", "size": 2}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Ys", "size": 2},
+{"name": "Amerigo", "size": 2},
+{"name": "1989: Dawn of Freedom", "size": 5},
+{"name": "Necromunda", "size": 9},
+{"name": "Catan", "size": 82}
+]}]},{
+"name": "Mecanica: Auction/Bidding",
+"children": [
+{
+"name": "1 a 2 Jugadores",
+"children": [
+{"name": "Z", "size": 2},
+{"name": "Commands ", "size": 4},
+{"name": "Starfarers of Catan", "size": 2},
+{"name": "Doom: The Boardgame", "size": 9},
+{"name": "Imhotep", "size": 2}
+]},{
+"name": "3 a 4 Jugadores",
+"children": [
+{"name": "Welcome to the Dungeon", "size": 2},
+{"name": "Sekigahara: The Unification of Japan", "size": 3},
+{"name": "Smash Up", "size": 10},
+{"name": "Ingenious: Travel Edition", "size": 9},
+{"name": "Snow Tails", "size": 82}
+]},{
+"name": "4 a 7 Jugadores",
+"children": [
+{"name": "Arkwright", "size": 2},
+{"name": "Here I Stand", "size": 2},
+{"name": "Ascension: Storm of Souls", "size": 10},
+{"name": "Kingdom Death: Monster", "size": 2},
+{"name": "Z", "size": 82}
+]},{
+"name": "7+ Jugadores",
+"children": [
+{"name": "Nexus Ops", "size": 2},
+{"name": "Mechs vs. Minions", "size": 4},
+{"name": "L", "size": 10},
+{"name": "Spyfall", "size": 9},
+{"name": "Blue Moon City", "size": 82}
+]}]}]}
+]}

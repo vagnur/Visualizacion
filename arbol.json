@@ -1,0 +1,180 @@
+{
+"name": "Blood Rage",
+"children": [
+{
+"name": "Categoria: Fantasy",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Eldritch Horror", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 10},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 28},
+{"name": "The Resistance: Avalon", "size": 2}
+]},{
+"name": "Mecanica: Area Control / Area Influence",
+"children": [
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Eldritch Horror", "size": 4},
+{"name": "Mansions of Madness: Second Edition", "size": 2},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 28},
+{"name": "The Resistance: Avalon", "size": 2}
+]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Eldritch Horror", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 5},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 9},
+{"name": "The Resistance: Avalon", "size": 2}
+]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Eldritch Horror", "size": 4},
+{"name": "Mansions of Madness: Second Edition", "size": 10},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 9},
+{"name": "The Resistance: Avalon", "size": 82}
+]},{
+"name": "Mecanica: Variable Player Powers",
+"children": [
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Eldritch Horror", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 10},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 28},
+{"name": "The Resistance: Avalon", "size": 2}
+]}]}
+,{
+"name": "Categoria: Fighting",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 3},
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Eclipse", "size": 28},
+{"name": "Eldritch Horror", "size": 17}
+]},{
+"name": "Mecanica: Area Control / Area Influence",
+"children": [
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 2},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Eclipse", "size": 28},
+{"name": "Eldritch Horror", "size": 2}
+]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 4},
+{"name": "Star Wars: Imperial Assault", "size": 5},
+{"name": "Eclipse", "size": 2},
+{"name": "Eldritch Horror", "size": 82}
+]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 4},
+{"name": "Star Wars: Imperial Assault", "size": 10},
+{"name": "Eclipse", "size": 28},
+{"name": "Eldritch Horror", "size": 17}
+]},{
+"name": "Mecanica: Variable Player Powers",
+"children": [
+{"name": "Scythe", "size": 2},
+{"name": "Mage Knight Board Game", "size": 4},
+{"name": "Star Wars: Imperial Assault", "size": 5},
+{"name": "Eclipse", "size": 28},
+{"name": "Eldritch Horror", "size": 2}
+]}]}
+,{
+"name": "Categoria: Miniatures",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Star Wars: XWing Miniatures Game", "size": 4},
+{"name": "Mansions of Madness: Second Edition", "size": 10},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 28},
+{"name": "Arcadia Quest", "size": 2}
+]},{
+"name": "Mecanica: Area Control / Area Influence",
+"children": [
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Star Wars: XWing Miniatures Game", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 10},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 9},
+{"name": "Arcadia Quest", "size": 2}
+]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Star Wars: XWing Miniatures Game", "size": 4},
+{"name": "Mansions of Madness: Second Edition", "size": 2},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 28},
+{"name": "Arcadia Quest", "size": 82}
+]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Star Wars: XWing Miniatures Game", "size": 2},
+{"name": "Mansions of Madness: Second Edition", "size": 5},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 9},
+{"name": "Arcadia Quest", "size": 17}
+]},{
+"name": "Mecanica: Variable Player Powers",
+"children": [
+{"name": "Star Wars: Imperial Assault", "size": 2},
+{"name": "Star Wars: XWing Miniatures Game", "size": 3},
+{"name": "Mansions of Madness: Second Edition", "size": 5},
+{"name": "Descent: Journeys in the Dark (Second Edition)", "size": 9},
+{"name": "Arcadia Quest", "size": 82}
+]}]}
+,{
+"name": "Categoria: Mythology",
+"children": [
+{
+"name": "Mecanica: Action Point Allowance System",
+"children": [
+{"name": "Chaos in the Old World", "size": 2},
+{"name": "Ghost Stories", "size": 2},
+{"name": "Shadows over Camelot", "size": 2},
+{"name": "Pandemic: Reign of Cthulhu", "size": 2},
+{"name": "Yggdrasil", "size": 17}
+]},{
+"name": "Mecanica: Area Control / Area Influence",
+"children": [
+{"name": "Chaos in the Old World", "size": 2},
+{"name": "Ghost Stories", "size": 4},
+{"name": "Shadows over Camelot", "size": 2},
+{"name": "Pandemic: Reign of Cthulhu", "size": 9},
+{"name": "Yggdrasil", "size": 2}
+]},{
+"name": "Mecanica: Area Movement",
+"children": [
+{"name": "Chaos in the Old World", "size": 2},
+{"name": "Ghost Stories", "size": 3},
+{"name": "Shadows over Camelot", "size": 5},
+{"name": "Pandemic: Reign of Cthulhu", "size": 2},
+{"name": "Yggdrasil", "size": 82}
+]},{
+"name": "Mecanica: Card Drafting",
+"children": [
+{"name": "Chaos in the Old World", "size": 2},
+{"name": "Ghost Stories", "size": 2},
+{"name": "Shadows over Camelot", "size": 5},
+{"name": "Pandemic: Reign of Cthulhu", "size": 9},
+{"name": "Yggdrasil", "size": 17}
+]},{
+"name": "Mecanica: Variable Player Powers",
+"children": [
+{"name": "Chaos in the Old World", "size": 2},
+{"name": "Ghost Stories", "size": 2},
+{"name": "Shadows over Camelot", "size": 10},
+{"name": "Pandemic: Reign of Cthulhu", "size": 28},
+{"name": "Yggdrasil", "size": 17}
+]}]}
+]}
